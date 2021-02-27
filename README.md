@@ -4,8 +4,8 @@ A basic template for ruby experiments
 2. Add specs under `spec`
 
 ```ruby
-  require "bowling"
-  RSpec.describe Bowling do
+  require "class"
+  RSpec.describe ClassName do
     ...
   end
 ```
